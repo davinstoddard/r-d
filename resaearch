@@ -1,0 +1,8 @@
+n=int(input("enter a number: "))
+enter a number: 5
+for i in range(1, 5):
+x=n*i
+print(x)
+
+// this would multiply the single number i.e 1*5, = 5, 2* 5 = 10, 3 *5 =15 and so given i specify the range
+here it is 1-5- or the first 4 numbers
